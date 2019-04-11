@@ -1,2 +1,2 @@
 # slzarate.github.io
-Personal website
+Personal website. A work in progress.
