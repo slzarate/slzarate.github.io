@@ -2,8 +2,6 @@ Hello! My name is Samantha Zarate and I am currently a PhD student at Johns Hopk
 
 I work in computational genomics and my interests include structural variation and long-read data. Please feel free to get in touch if you are interested in collaborating!
 
-My non-scientific interests include traveling, reading, and knitting.
-
 ### Contact Information & Social Media
 
 - Email: slzarate AT jhu DOT edu
