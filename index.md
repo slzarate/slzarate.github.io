@@ -1,6 +1,8 @@
-Hello! My name is Samantha Zarate and I am currently a PhD student at Johns Hopkins University in Baltimore, MD, working in Mike Schatz's lab. I used to work at DNAnexus as a bioinformatics scientist.
+Hello! My name is Samantha Zarate and I am currently a PhD student at Johns Hopkins University in Baltimore, MD, working in Mike Schatz's lab. Before this, I worked at DNAnexus in Mountain View, CA as a bioinformatics scientist. I graduated from Stanford University in 2016 with a BS in biomedical computation.
 
 I work in computational genomics and my interests include structural variation and long-read data. Please feel free to get in touch if you are interested in collaborating!
+
+My non-scientific interests include traveling, reading, and knitting.
 
 ### Contact Information & Social Media
 
