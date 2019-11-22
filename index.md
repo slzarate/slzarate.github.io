@@ -20,4 +20,5 @@ I work in computational genomics and my interests include structural variation a
 
 - Parliament2: An ensemble short-read structural variant caller, developed while at DNAnexus
   - GitHub: [https://github.com/dnanexus/parliament2](https://github.com/dnanexus/parliament2)
+  - DockerHub image: https://hub.docker.com/r/dnanexus/parliament2
   - BioRxiv (2018): [https://doi.org/10.1101/424267](https://doi.org/10.1101/424267)
