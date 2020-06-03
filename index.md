@@ -12,8 +12,8 @@ I work in computational genomics and my interests include structural variation a
 
 ### Resume & CV
 
-- [Resume](sz_resume_1.17.20.pdf)
-- [CV](sz_cv_1.17.20.pdf)
+- [Resume](sz_resume_3.17.20.pdf)
+- [CV](sz_cv_3.17.20.pdf)
 
 ### Projects
 
@@ -28,4 +28,4 @@ I work in computational genomics and my interests include structural variation a
 - November 2018: [Featured on Women of Silicon Valley](https://www.womenofsiliconvalley.org/interviews/samantha-zarate)
 - Summer 2017: Mentored a summer intern at DNAnexus, co-authoring a [DNAnexus blog post](https://blog.dnanexus.com/author/adeline-petersen-samantha-zarate/) with her
 
-Last updated 1/17/2020
+Last updated 6/3/2020
