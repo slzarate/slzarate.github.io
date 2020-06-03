@@ -12,8 +12,8 @@ I work in computational genomics and my interests include structural variation a
 
 ### Resume & CV
 
-- [Resume](sz_resume_3.17.20.pdf)
-- [CV](sz_cv_3.17.20.pdf)
+- [Resume](sz_resume_6.3.20.pdf)
+- [CV](sz_cv_6.3.20.pdf)
 
 ### Projects
 
